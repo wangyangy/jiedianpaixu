@@ -16,7 +16,7 @@ public class DirectedGraph {
 	static int []low = null;
 	static int []subnets = null;
 	static int nodes;
-	static int deep = 1;
+	static int deep = 1; 
 	static int rson = 0;
 
 	public void init(int rootIndex) throws Exception{
