@@ -12,7 +12,7 @@ public class DirectedGraph {
 	static HashMap<Integer,ArrayList<Integer>> map = new HashMap<Integer, ArrayList<Integer>>();
 	public static int maxn;
 	static int []vis = null;
-	static int []dfn = null;
+	static int []dfn = null; 
 	static int []low = null;
 	static int []subnets = null;
 	static int nodes;
